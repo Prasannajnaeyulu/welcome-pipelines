@@ -6,7 +6,7 @@ events:
       - welcome:
           script:
             - ls -l ~/.ssh
-            - echo 'STARTED-7'
+            - echo 'STARTED-8'
             - 'nvm install v6.9.5'
             - 'nvm use 6.9.5'
             - 'npm install'
